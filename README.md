@@ -53,7 +53,7 @@ Page-to-page navigation (airport departure → aircraft details).
 
 Intuitive back buttons and theme toggles included
 
-Real-Time Clock (PST) ⏰ → Automatically updates with the user’s system time.
+Real-Time Clock (PST)  → Automatically updates with the user’s system time.
 
 
 APIs Used
@@ -65,28 +65,24 @@ Data Sources → Real-world flight datasets + API-enhanced contextual data.
 
 
 
+## Data Sources
+the csv files are uploaded seperately. you can download them from there.
+.pbix file is also provided for download 
 
-## 🗂️[Uploading flights_data_with_aircraft.csv…]()
- Data Sources
-- Source: **[Excel, CSV, SQL, etc.]**  
-- Size: **[rows/columns if relevant]**  
-- Notes: **[if you cleaned/combined/created mock data]**
 
----
 
-## 🚀 How to Use
+##  How to Use
 1. Download the `.pbix` file from this repo.  
 2. Open it in **Power BI Desktop** (free to install).  
 3. Interact with the dashboard using slicers and filters.  
 
-*(If you’ve published it to Power BI Service, you can also add a live dashboard link here.)*  
+##  Screenshots
 
----
+<img width="1144" height="640" alt="image" src="https://github.com/user-attachments/assets/670a26ab-dfb3-47e5-8540-948de0a6cfad" />
+<img width="1162" height="651" alt="image" src="https://github.com/user-attachments/assets/ad0240b6-b5d5-4f92-a6fb-45bc69ca39ad" />
 
-## 📷 Screenshots
-*(Insert one or two images of your dashboard for quick preview)*  
 
-![Dashboard Preview](screenshot.png)
+
 
 ---
 
