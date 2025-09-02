@@ -1,6 +1,6 @@
 # Power-BI-
 Power BI projects and dashboards showcasing data visualization and analysis
-# Power BI Project: [Project Name]
+# Power BI Project: Flight Tracking
 
 ##  Project Overview
 This project is a Flight Radar – Airport Departure Report built in Power BI.
