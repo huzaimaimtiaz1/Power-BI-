@@ -4,12 +4,19 @@ Power BI projects and dashboards showcasing data visualization and analysis
 
 ##  Project Overview
 This project is a Flight Radar – Airport Departure Report built in Power BI.
+
 The dashboard provides real-time insights into flight departures from different airports around the world, with details on:
+
  Flight Route Information – Departure and arrival airports with scheduled departure/arrival times.
+	
  Airline & Aircraft Details – Airline selection filter, aircraft type, and airline branding.
+	
  Weather Insights – Temperature at both departure and arrival airports for flight planning considerations.
+	
  Geographical Mapping – Interactive map showing the departure and arrival airport locations.
+	
  Flight Activity Status – A breakdown of active flights, landed flights, and scheduled flights.
+	
  Aircraft details page - details about the aircraft being used in that specific flight (aircraft's name, use, type, range, seating capacity, aircraft image, airlines that are using this airplane, aircrafts most recent arrival) 
  
 ## Purpose
