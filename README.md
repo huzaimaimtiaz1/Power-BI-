@@ -79,30 +79,58 @@ the csv files are uploaded seperately. you can download them from there.
 ##  Screenshots
 
 <img width="1144" height="640" alt="image" src="https://github.com/user-attachments/assets/670a26ab-dfb3-47e5-8540-948de0a6cfad" />
+
 <img width="1162" height="651" alt="image" src="https://github.com/user-attachments/assets/ad0240b6-b5d5-4f92-a6fb-45bc69ca39ad" />
 
+<img width="1165" height="647" alt="image" src="https://github.com/user-attachments/assets/2fe22581-2dde-4276-ba0d-46430dd4ddc6" />
+
+<img width="1164" height="645" alt="image" src="https://github.com/user-attachments/assets/02df3c84-1e03-440b-b439-75db383a4771" />
 
 
 
----
+##  Key Insights
+End-to-End Flight View
 
-## 📈 Key Insights
-- Insight 1: e.g., *“Sales peak in Q4 driven by holiday campaigns.”*  
-- Insight 2: e.g., *“Customer churn highest in Region A compared to Region B.”*  
-- Insight 3: e.g., *“Top 10 products account for 70% of total revenue.”*  
+The dashboard doesn’t just show schedules — it connects departure & arrival airports, flight timings, aircraft type, weather conditions, and live maps.
 
----
+This gives users a complete situational awareness of flights in one glance.
 
-## 🛠️ Tools Used
+Real-Time + Contextual Data
+
+Integration of live weather APIs adds more than just static flight data → it shows conditions passengers will face at departure and arrival.
+
+The live clock & maps reinforce that this is an operational monitoring tool, not a static report.
+
+Operational Efficiency Tracking
+
+With the Active vs. Landed vs. Scheduled breakdown, stakeholders can monitor traffic flow and identify if flights are on time, delayed, or still in air.
+
+This is valuable for airline operations or airport control rooms.
+
+Aircraft-Level Insights
+
+The second page zooms into aircraft details — capacity, range, engine type, and airline usage.
+
+This connects operational scheduling (page 1) with fleet management (page 2) → a powerful link for aviation analytics.
+
+User Experience Enhancements
+
+Features like night mode toggle, airline search dropdown, and navigation buttons show strong focus on interactivity and UX — making the dashboard feel like a real app, not just a report.
+
+Scalability of Approach
+
+The same design pattern (departure/arrival, weather, maps, aircraft details) can scale to multiple airlines, airports, or even global air traffic monitoring.
+
+
+
+##  Tools Used
 - Power BI Desktop  
 - Power Query (ETL)  
-- DAX (Data Analysis Expressions)  
+- DAX (Data Analysis Expressions)
+  
 
----
+## Author
+- **Huzaima Imtiaz**  
+  
 
-## 👤 Author
-- **[Your Name]**  
-- LinkedIn: [Your Profile]  
-- GitHub: [Your Profile]  
 
----
